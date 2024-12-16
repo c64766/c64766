@@ -1,4 +1,4 @@
-👋 Hi, I’m Charlie Milius and I joined Textron full-time in 2015 as an IT Systems Developer - Assoc at Textron Aviation. In my past I have interned at Bell Helicopter and Textron Aviation. I enjoy working to solve problems to further streamline and simplify business processes with solutions that can be easily maintained and expaned. Find me on [LinkedIn](https://www.linkedin.com/in/charliemilius)​
+👋 Hi, I’m Charlie Milius and I joined Textron full-time in 2015 as an IT Systems Developer - Assoc at Textron Aviation. In my past I have interned at Bell Helicopter and Textron Aviation. I enjoy working to solve problems to further streamline and simplify business processes with solutions that can be easily maintained and expanded. Find me on [LinkedIn](https://www.linkedin.com/in/charliemilius)​
   
 👀 I’m interested in ...
 C# | IoT | Git | Azure | Leadership | Android | Xamarin | Scrum | Agile | SQL | JavaScript
